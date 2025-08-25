@@ -1,0 +1,7 @@
+student details:
+Name:satya
+age:19
+Gender:Female
+Course:BSC AIR
+PHN number:xxxxxxxxxx
+
